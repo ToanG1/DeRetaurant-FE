@@ -2,9 +2,15 @@
   background-color: greenyellow;
   .header {
     background-color: red;
+    #header-name {
+      background-color: blue;
+    }
   }
   .body {
     background-color: yellow;
+    #header-name {
+      background-color: brown;
+    }
   }
   .footer {
     background-color: purple;
